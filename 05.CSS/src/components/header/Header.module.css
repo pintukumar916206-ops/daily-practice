@@ -1,0 +1,22 @@
+.header{
+  font-size: 50px;
+  font-weight: 600;
+  background-color: lightgreen;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  /* width: fit-content; */
+  border-radius: 10px;
+  margin: 5px;
+}
+.btn{
+  background-color: yellow;
+  font-size: 50px;
+    font-weight: 600;
+    /* background-color: aqua; */
+    padding: 10px 20px;
+    width: fit-content;
+    border-radius: 10px;
+    margin: 5px;
+}
