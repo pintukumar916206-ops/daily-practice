@@ -4,17 +4,17 @@ import { Bookmark } from "lucide-react";
 
 const Card = (props) => {
 
-    console.log(props.company);
-    
-return (
+  console.log(props.company);
+
+  return (
     <div className="card">
-    <div>
+      <div>
         <div className="top">
-        <img src={props.brandLogo} alt="LOGO" />
-            
-        <button>
+          <img src={props.brandLogo} alt="LOGO" />
+
+          <button>
             SAVE <Bookmark size={35} />
-        </button>
+          </button>
         </div>
 
         <div className="center">
@@ -37,7 +37,7 @@ return (
         <button>Apply Now </button>
       </div>
     </div>
-);
+  );
 };
 
 export default Card;
