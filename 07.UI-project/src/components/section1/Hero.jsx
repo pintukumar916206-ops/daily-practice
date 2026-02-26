@@ -10,9 +10,9 @@ const Hero = () => {
           Segmentation
         </h3>
         <p className="text-xl w-[90%] font-medium text-gray-600">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore
-          asperiores ipsam eveniet eius temporibus minima cum at nam omnis
-          accusantium.
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+          Ullam libero ad distinctio voluptatem! Iure enim dignissimos repudiandae ea, 
+          officiis eius? Aut minima itaque ipsum rerum cumque vero, consequuntur vel praesentium!
         </p>
       </div>
     </div>
