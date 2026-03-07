@@ -12,7 +12,7 @@ const Hero = () => {
         <p className="text-xl w-[90%] font-medium text-gray-600">
           Lorem ipsum, dolor sit amet consectetur adipisicing elit.
           Ullam libero ad distinctio voluptatem! Iure enim dignissimos repudiandae ea, 
-          officiis eius? Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+          officiis eius? 
         </p>
       </div>
     </div>
@@ -20,3 +20,4 @@ const Hero = () => {
 }
 
 export default Hero
+
