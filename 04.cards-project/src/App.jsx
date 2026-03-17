@@ -104,7 +104,7 @@ const App = () => {
       tag2: "Senior Level",
       pay: 65,
       location: "Patna, India",
-      applicant: "Wanda Maximoff (Scarlet Witch)"
+      applicant: "Wanda Maximoff "
     }
   ];
   console.log(jobOpenings);
