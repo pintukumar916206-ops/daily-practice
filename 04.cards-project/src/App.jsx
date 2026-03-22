@@ -68,7 +68,7 @@ const App = () => {
     },
     {
       brandLogo: "https://logo.clearbit.com/tesla.com",
-      companyName: "Tesla",
+      companyName: "TESLA",
       datePosted: "6 days ago",
       tag1: "Part-time",
       tag2: "Senior Level",
@@ -88,7 +88,7 @@ const App = () => {
     },
     {
       brandLogo: "https://logo.clearbit.com/oracle.com",
-      companyName: "Oracle",
+      companyName: "ORACLE",
       datePosted: "5 days ago",
       tag1: "Full-time",
       tag2: "Junior Level",
@@ -98,7 +98,7 @@ const App = () => {
     },
     {
       brandLogo: "https://logo.clearbit.com/salesforce.com",
-      companyName: "Salesforce",
+      companyName: "SALESFORCE",
       datePosted: "1 day ago",
       tag1: "Part-time",
       tag2: "Senior Level",
@@ -114,7 +114,9 @@ const App = () => {
   return (
     <div className="parent">
       {jobOpenings.map(function (elem) {
-        return <Card company={elem.applicant} datePosted={elem.datePosted} tag1={elem.tag1} brandLogo={elem.brandLogo} pay={elem.pay} tag2={elem.tag2} />
+        return <Card company={elem.applicant}
+          datePosted={elem.datePosted} tag1={elem.tag1}
+          brandLogo={elem.brandLogo} pay={elem.pay} tag2={elem.tag2} />
       })}
 
 
