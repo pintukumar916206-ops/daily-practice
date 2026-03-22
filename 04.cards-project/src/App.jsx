@@ -9,7 +9,7 @@ const App = () => {
     {
       brandLogo: "https://images.unsplash.com/photo-1743168624828-5de6eb24a2ce?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       companyName: "Google",
-      datePosted: "2 days ago",
+      datePosted: "5 days ago",
       tag1: "Full-time",
       tag2: "Junior Level",
       pay: 45,
@@ -19,7 +19,7 @@ const App = () => {
     {
       brandLogo: "https://images.unsplash.com/photo-1664464168934-637a185dea7e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       companyName: "Meta",
-      datePosted: "5 days ago",
+      datePosted: "10 days ago",
       tag1: "Full-time",
       tag2: "Senior Level",
       pay: 70,
@@ -29,7 +29,7 @@ const App = () => {
     {
       brandLogo: "https://images.unsplash.com/photo-1665042099439-39d93c1117e6?q=80&w=1156&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       companyName: "Amazon",
-      datePosted: "1 day ago",
+      datePosted: "6 day ago",
       tag1: "Part-time",
       tag2: "Junior Level",
       pay: 38,
@@ -39,7 +39,7 @@ const App = () => {
     {
       brandLogo: "https://images.unsplash.com/photo-1663035047598-c36c3c4c291d?q=80&w=736&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D ",
       companyName: "Apple",
-      datePosted: "3 days ago",
+      datePosted: "1 days ago",
       tag1: "Full-time",
       tag2: "Senior Level",
       pay: 80,
