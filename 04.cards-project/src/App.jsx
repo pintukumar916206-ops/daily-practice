@@ -89,7 +89,7 @@ const App = () => {
     {
       brandLogo: "https://logo.clearbit.com/oracle.com",
       companyName: "ORACLE",
-      datePosted: "5 days ago",
+      datePosted: "4 days ago",
       tag1: "Full-time",
       tag2: "Junior Level",
       pay: 42,
