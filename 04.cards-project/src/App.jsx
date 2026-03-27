@@ -99,12 +99,12 @@ const App = () => {
     {
       brandLogo: "https://logo.clearbit.com/salesforce.com",
       companyName: "SALESFORCE",
-      datePosted: "1 day ago",
+      datePosted: "2 day ago",
       tag1: "Part-time",
       tag2: "Senior Level",
       pay: 65,
       location: "Patna, India",
-      applicant: "Wanda Maximoff "
+      applicant: "Wanda Maximoff(BLACK WIDOW) "
     }
   ];
   console.log(jobOpenings);
