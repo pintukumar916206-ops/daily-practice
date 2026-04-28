@@ -101,7 +101,7 @@ const App = () => {
       companyName: "SALESFORCE",
       datePosted: "2 day ago",
       tag1: "Part-time",
-      tag2: "Junior Level",
+      tag2: "Senior Level",
       pay: 65,
       location: "Patna, India",
       applicant: "Wanda Maximoff(BLACK WIDOW) "
