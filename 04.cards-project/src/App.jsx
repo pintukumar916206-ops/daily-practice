@@ -103,7 +103,7 @@ const App = () => {
       tag1: "Part-time",
       tag2: "Senior Level",
       pay: 65,
-      location: "Patna, India",
+      location: "Jaipur, India",
       applicant: "Wanda Maximoff(BLACK WIDOW) "
     }
   ];
