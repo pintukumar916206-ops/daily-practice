@@ -93,7 +93,7 @@ const App = () => {
       tag1: "Full-time",
       tag2: "Junior Level",
       pay: 42,
-      location: "Patna, India",
+      location: "Mohali, India",
       applicant: "Levi Ackerman"
     },
     {
